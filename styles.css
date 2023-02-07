@@ -1,4 +1,4 @@
-/* CSS Reset - Start */
+
 *,
 *::before,
 *::after {
@@ -34,9 +34,7 @@ picture {
     display: block;
 }
 
-/* CSS reset - END */
 
-/* Font Styles */
 h3 {
     font-size: 1.7rem;
     font-weight: 400;
@@ -50,7 +48,7 @@ p {
     line-height: 1.6;
 }
 
-/*  END  */
+
 
 /* Remove All Default Checkbox Appearance */
 input {
@@ -58,7 +56,7 @@ input {
 }
 
 
-/* Text Color Accents */
+
 .text-white-accent {
     color: hsl(0, 0%, 100%);
 }
@@ -71,11 +69,7 @@ input {
     color: hsl(25, 97%, 53%);
 }
 
-/* END */
 
-
-
-/* Star Icon */
 .star-icon {
     background-color: hsl(216, 12%, 14%);
     width: 3em;
@@ -91,10 +85,7 @@ input {
     color: hsl(0, 0%, 100%);
 }
 
-/*  END  */
 
-
-/* Layout */
 .component {
     background-color: hsl(216, 12%, 8%);
     width: 100vw;
@@ -126,7 +117,6 @@ input {
 
 
 
-/* Submit Button */
 .submit-btn {
     width: 100%;
     color: hsl(0, 0%, 100%);
@@ -141,10 +131,8 @@ input {
     text-decoration: none;
 }
 
-/*  END  */
 
 
-/* Score Rating */
 .checked-box-container {
     display: flex;
     justify-content: space-between;
@@ -161,11 +149,7 @@ input {
     cursor: pointer;
 }
 
-/*   END */
 
-
-
-/* Active States */
 .submit-btn:hover,
 .submit-btn:focus {
     transition: .5s;
@@ -211,7 +195,6 @@ input {
     background-color: hsl(217, 12%, 63%);
 }
 
-/* END */
 
 
 #thank-you-statement {
