@@ -52,7 +52,7 @@ p {
 
 /* Remove All Default Checkbox Appearance */
 input {
-    -webkit-appearance: none;
+    appearance: none;
 }
 
 
